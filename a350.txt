@@ -1,5 +1,8 @@
-el airbus a350 es el ultimo modelo de la empresa
+el airbus a350 es el ultimo modelo de la empres
 
 
 
-esta compuesto de 70 porciento de fibra de carbono por ello es mas eficiente que losmodelos anteriores 
+esta compuesto de 70 porciento de fibra de carbono por ello es mas eficiente que losmodelos anteriores
+
+
+patrrafo que se agrego el miercoles 14 en la rama vervion 3 
